@@ -12,8 +12,6 @@ import org.springframework.ws.soap.client.core.SoapActionCallback;
 
 import hello.wsdl.GetCitiesByCountry;
 import hello.wsdl.GetCitiesByCountryResponse;
-import hello.wsdl.GetWeather;
-import hello.wsdl.GetWeatherResponse;
 
 public class QuoteClient extends WebServiceGatewaySupport {
 
